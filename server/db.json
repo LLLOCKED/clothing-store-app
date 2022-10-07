@@ -1,0 +1,39 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "title": "Only & Sons oversized t-shirt",
+      "price": "20",
+      "description": "Only & Sons oversized t-shirt with 7 summits back print in beige",
+      "category": ["t_shirts"]
+    },
+    {
+      "id": 2,
+      "title": "ASOS DESIGN oversized t-shirt",
+      "price": "19",
+      "description": "ASOS DESIGN oversized t-shirt with Great Wave of Kanagawa prints in washed purple",
+      "category": ["t_shirts"]
+    },
+    {
+      "id": 3,
+      "title": "Jack & Jones Originals oversized t-shirt",
+      "price": "20",
+      "description": "Jack & Jones Originals oversized t-shirt with fruit print in light yellow",
+      "category": ["t_shirts"]
+    },
+    {
+      "id": 4,
+      "title": "Jack & Jones Originals oversized t-shirt",
+      "price": "16",
+      "description": "Jack & Jones Originals oversized t-shirt with snake back print in black",
+      "category": ["t_shirts"]
+    },
+    {
+      "id": 5,
+      "title": "ASOS DESIGN oversized t-shirt",
+      "price": "22",
+      "description": "ASOS DESIGN oversized t-shirt in dark green with radio back print",
+      "category": ["t_shirts"]
+    }
+  ]
+}
